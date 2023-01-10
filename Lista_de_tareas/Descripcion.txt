@@ -1,0 +1,23 @@
+Aplicacion de consola interactiva donde puedes establecer tareas por hacer, marcarlas desmarcarlas con distintas interacciones
+
+El objetivo es que creemos una aplicación de consola interactiva, con opciones que se puedan seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
+
+Puntualmente sería:
+
+stdin
+
+stdout
+
+Ciclos
+
+Inquirer
+
+Clases en JavaScript
+
+Archivos JSON
+
+Fuertemente async y await
+
+Transformaciones
+
+Esta es una aplicación real que les puede servir mucho cuando tengan que crear alguna aplicación de consola.
